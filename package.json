@@ -1,0 +1,20 @@
+{
+  "name": "my-three",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "three": "^0.168.0"
+  },
+  "devDependencies": {
+    "prettier": "^3.3.3",
+    "vite": "^5.4.2"
+  }
+}
