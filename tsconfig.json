@@ -5,10 +5,7 @@
     "strict": true,
     "esModuleInterop": true,
     "skipLibCheck": true,
-    "forceConsistentCasingInFileNames": true,
-    // 다른 옵션들...
-    "noUnusedLocals": true,
-    "noUnusedParameters": true
+    "forceConsistentCasingInFileNames": true
   },
   "include": ["src/**/*", "src/**/*.ts", "src/**/*.tsx", "src/**/*.js"]
 }
